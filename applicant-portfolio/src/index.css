@@ -1,0 +1,62 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} */
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+body {
+  background-image: url("./abstract_low_poly_design_background_1509.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 72vh;
+}
+
+.jumbotron {
+  background-color: transparent;
+}
+
+h1, h2 {
+  font-family: 'Fredericka the Great', cursive;
+}
+
+.negative-margin {
+  margin-top: -40px;
+}
+
+a:hover {
+  color: #aae1f5 !important;
+}
+
+nav li {
+  font-size: 20px;
+}
+
+.source-code {
+  border-radius: 35px;
+}
+
+footer {
+  background: #aae1f5;
+  font-weight: bolder;
+  width: 100%;
+  padding: 20px 20px;
+  text-align: center;
+}
+
+.footer-list {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.footer-list a:hover {
+  color: black !important;
+}
