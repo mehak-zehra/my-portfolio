@@ -10,7 +10,7 @@ This the portfolio application that list information about an applicant's person
 * CSS
 
 ## Live Website
-https://mehak-zehra.github.io/applicant-portfolio/
+https://mehak-zehra-resume.herokuapp.com/
 
 ## GitHub Repository
 https://github.com/mehak-zehra/my-portfolio
